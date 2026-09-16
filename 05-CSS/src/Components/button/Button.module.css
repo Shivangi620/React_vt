@@ -1,0 +1,10 @@
+/* SPECIALLY FOR THE BUTTON PART AND NOT TO OVERWRITE THAT'S WHY USING TWO DIFFERERNT FOLDER. */
+.btn button
+{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 20px;
+    
+
+}

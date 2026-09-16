@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+ 
+}
+button
+{
+  padding: 10px 20px;
+  margin: 20px;
+  color: black;
+}
+h1
+{
+  background-color: rgb(119, 119, 119);
+  padding: 10px 50px;
+  margin: 20px;
+  font-size: 200;
+  width: fit-content;
+  margin: 20px;
+  border-radius: 5px;
+  color: white;
+}

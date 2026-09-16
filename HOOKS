@@ -1,0 +1,27 @@
+//1. Usestate-->>used to for changing the state..
+//from one state to another state
+
+
+//2. useEfect->>used to effect like one effect is already done but one should add also.
+// to manage the sideeffects.(dom manipulation , api call , event listener.)
+
+
+
+//3.useReducer-->>complex state management ke liye redux jaisa chota version.
+//instead of changing any variable directly from website to changing through react.
+
+//4.useRef->>//instead of changing any variable directly from website to changing through react.
+//mutable values hold karne ke liyee jo render trigger na krein ya dom acces karne ke liyee..
+
+
+//5.useMemo->>same as usecallback
+// unneccessary re- render avoid krne ke liyee..
+
+
+//6.useCallback-->>used for optimizations, renders..
+//means the other value does not if i change only one value this look up for that.
+
+
+//7.useContext-->>manage global context.
+// make global so that other can alos track that and also easily accessible to others.
+
